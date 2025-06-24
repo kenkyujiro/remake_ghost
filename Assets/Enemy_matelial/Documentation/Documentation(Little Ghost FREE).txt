@@ -1,0 +1,95 @@
+	
+--------------Little Ghost lowpoly(FREE)----------------------------
+
+This is a FREE edition of the asset "Little Ghost lowpoly".
+This pack contains 3d Model and Animation of a "Little Ghost".
+
+Technical Details:-
+		- Prefabs : 7		
+		- Vertex count : 288(Ghost), 318(Hat), 120(Axe), 254(Devil Head)
+		- Tris count : 572(Ghost), 632(Hat), 236(Axe), 476(Devil Head)
+		- Animations : 1 (Idle)
+		- Used Material(s) : Unity standard material
+		- Texture maps : Albedo/Base Color
+		- Texture Size : 2048
+
+Features:-
+	- Low poly design
+	- Mobile/AR Ready asset
+	- UV Unwrapped
+	- Smooth animations (loop & non-loop, Seamless)
+	- High quality textures
+	- Easy to edit/modify
+	- Demo scene & Scripts included
+		
+Folder details:-
+
+	Materials : Where the materials for the model located.
+	
+	Meshes : Contain FBX format of the 3d model.
+	
+	Textures : Contains Textures, that are in (.PNG) file format
+	
+	(Other folders - Prefabs, Scenes)
+
+How to use:-
+	
+	Simply drag and drop the prefab to your scene and use it.
+	(Prefab(s) located under 
+	Asset > Little Ghost lowpoly (FREE) > Prefabs).
+
+..................................................................................
+
+About Us : "SR Studios Kerala", Game developing company located in Alappuzha, Kerala, India
+
+Contact : srstudioskerala@gmail.com
+
+................Thanks for downloading this package................................
+
+--------------Little Ghost lowpoly(無料)---------------------------
+
+これはアセット「Little Ghost lowpoly」の無料版です。
+
+このパックには「Little Ghost」の 3D モデルとアニメーションが含まれています。
+
+技術的な詳細:-
+- プレハブ: 7
+- 頂点数: 288(ゴースト)、318(帽子)、120(斧)、254(悪魔の頭)
+- 三角形数: 572(ゴースト)、632(帽子)、236(斧)、476(悪魔の頭)
+- アニメーション: 1 (アイドル)
+- 使用マテリアル: Unity 標準マテリアル
+- テクスチャ マップ: アルベド/ベース カラー
+- テクスチャ サイズ: 2048
+
+機能:-
+- ローポリ デザイン
+- モバイル/AR 対応アセット
+- UV アンラップ済み
+- スムーズなアニメーション (ループと非ループ、シームレス)
+- 高品質のテクスチャ
+- 編集/変更が簡単
+- デモ シーンとスクリプトが含まれています
+
+フォルダーの詳細:-
+
+マテリアル: モデルのマテリアルが配置されている場所。
+
+メッシュ: 3D モデルの FBX 形式が含まれています。
+
+テクスチャ: (.PNG) ファイル形式のテクスチャが含まれています
+
+(その他のフォルダ - プレハブ、シーン)
+
+使用方法:-
+
+プレハブをシーンにドラッグ アンド ドロップして使用します。
+
+(プレハブは、アセット > Little Ghost lowpoly (無料) > プレハブの下にあります)。
+
+...................................................................................
+
+当社について: 「SR Studios Kerala」は、インド、ケーララ州アレッピーにあるゲーム開発会社です
+
+連絡先: srstudioskerala@gmail.com
+
+................このパッケージをダウンロードしていただきありがとうございます...........
