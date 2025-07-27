@@ -4,13 +4,13 @@
 
 The goal of the game is to use a gun to kill big ghosts.
 
-![]([https://drive.google.com/file/d/1SmAZMqYtr9OpVoxh8aHJGkUZScfelEl0/view?usp=sharing](https://github.com/kenkyujiro/remake_ghost/issues/1#issue-3267177860))
+![](ghost_game.png)
 
 This photo is an actual game screen. If you run out of hearts, the game is over.
  
 # Features
 
- ![](https://drive.google.com/file/d/17x8xeB2f3LjFFeo0stf3N6Nn9hK49eax/view?usp=sharing)
+ ![](ghost_UI.png)
 "GhostBreaker" focuses on UI/UX to create a sense of immersion.
 We designed the displays, sound effects, and information to be intuitively understandable.
  
