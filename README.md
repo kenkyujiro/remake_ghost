@@ -4,7 +4,7 @@
 
 The goal of the game is to use a gun to kill big ghosts.
 
-![](https://drive.google.com/file/d/1SmAZMqYtr9OpVoxh8aHJGkUZScfelEl0/view?usp=sharing)
+![]([https://drive.google.com/file/d/1SmAZMqYtr9OpVoxh8aHJGkUZScfelEl0/view?usp=sharing](https://github.com/kenkyujiro/remake_ghost/issues/1#issue-3267177860))
 
 This photo is an actual game screen. If you run out of hearts, the game is over.
  
