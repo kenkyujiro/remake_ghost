@@ -36,7 +36,7 @@ Since the development version is 2022.3.24, it may not work with the latest vers
 # Author
  
 * Yuki Hotta
-* yuki2628@outlook.jp
+* kenkyujiro0229@outlook.jp
  
 # License
  
