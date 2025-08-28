@@ -27,7 +27,7 @@ We designed the displays, sound effects, and information to be intuitively under
 
 3.Unzip the zip file anywhere
 
-4.Double Click "GhostBreaker.exe"
+4.Double Click "ReObake_Project/GhostBreaker.exe"
  
 # Note
  
